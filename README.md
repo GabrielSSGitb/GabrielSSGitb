@@ -1,9 +1,9 @@
-### Olá! 👋
+### Hellow there! 👋
 
-- 🌱 Estou atualmente aprendendo a desenvolver em Front-end
-- 🤖 Estou aprendendo HTML/CSS3, Javascript avançado e PHP
-- 📫 Meu EMAIL: gabrielsantosgithubac@gmail.com
-- ⚡ Tenho 16 anos e estou Interessado em entrar pro mundo da programação. 🤘🖖
+- 🌱 I´m currenly working to become a Front-end dev
+- 🤖 I´m learning HTML/CSS, Javascript and PHP on my free time
+- 📫 My Email: gabrielsantosgithubac@gmail.com
+- ⚡ I am 16 years old and I´m interested in the world of proggraming 🤘🖖
 
 <div align="center">
   <a href="https://github.com/GabrielSSGitb">
