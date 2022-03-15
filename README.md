@@ -1,6 +1,6 @@
 ### Hellow there! 👋
 
-- 🌱 I´m currenly working to become a Front-end dev
+- 🌱 I´m currenly working to become a Web developer
 - 🤖 I´m learning HTML/CSS, Javascript and PHP on my free time
 - 📫 My Email: gabrielsantosgithubac@gmail.com
 - ⚡ I am 17 years old and I´m interested in the world of proggraming 🤘🖖
