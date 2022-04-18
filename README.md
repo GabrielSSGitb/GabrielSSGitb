@@ -3,7 +3,7 @@
 - 🌱 I´m currenly working to become a Web developer
 - 🤖 I´m learning HTML/CSS, Javascript and PHP on my free time
 - 📫 My Email: gabrielsantosgithubac@gmail.com
-- ⚡ I am 17 years old and I´m interested in the world of proggraming 🤘🖖
+- ⚡ I am 17 years old and I want to become a Software Engineer 🤘🖖
 
 <div align="center">
   <a href="https://github.com/GabrielSSGitb">
