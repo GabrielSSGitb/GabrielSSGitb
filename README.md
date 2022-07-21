@@ -5,11 +5,6 @@
 - 📫 My Email: gabrielsantosgithubac@gmail.com
 - ⚡ I am 17 years old and I want to become a Software Engineer 🤘🖖
 
-<div align="center">
-  <a href="https://github.com/GabrielSSGitb">
-  <img height="150px"  src="https://github-readme-stats.vercel.app/api?username=GabrielSSGitb&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="150px"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSSGitb&layout=compact&langs_count=7&theme=algolia"/>
-</div>
   <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
