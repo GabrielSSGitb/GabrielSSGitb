@@ -1,9 +1,9 @@
 ### Hellow there! 👋
 
 - 🌱 I´m currenly trying to create some projects with Javascript
-- 🤖 I´m learning HTML/CSS, Javascript and PHP on my free time
+- 🤖 I´m learning Python
 - 📫 My Email: gabrielsantosgithubac@gmail.com
-- ⚡ I am 18 years old and I want to become a Software Engineer 🤘🖖
+- ⚡ I am 19 years old and I want to become a Software Engineer 🤘🖖
 
 
   <div style="display: inline_block"><br>
