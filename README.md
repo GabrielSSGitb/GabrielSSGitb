@@ -1,7 +1,7 @@
 ### Hellow there! 👋
 
 - 🌱 I´m currenly improving my proggraming skills  
-- 🤖 I´m learning Python and Java
+- 🤖 I´m spending most of my time learning Java
 - 🚀 Begginer computer science student
 - 📫 My Email: gabrielsantosgithubac@gmail.com
 
