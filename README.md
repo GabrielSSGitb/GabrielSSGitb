@@ -6,7 +6,7 @@
 - 📫 My Email: gabrielsantosgithubac@gmail.com
 
 
-  <p style="font-weight: bold">Most used proggraming languages and tools: </p>
+  <p><b>Most used proggraming languages and tools: </b></p>
   <div style="display: inline_block"><br>
   <img align="center" alt="Gabriel-py" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
   <img align="center" alt="Gabriel-py" height="40" width="50"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> 
