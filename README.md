@@ -2,7 +2,7 @@
 
 - 🌱 I´m currenly improving my proggraming skills  
 - 🤖 I´m spending most of my time learning Java
-- 🚀 Begginer computer science student
+- 🚀 Computer science student
 - 📫 My Email: gabrielsantosgithubac@gmail.com
 
 
