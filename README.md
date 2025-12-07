@@ -14,10 +14,10 @@ Here i´m currently:
 
 <div align="left">
   <!-- General stats -->
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=GabrielSSGitb&show_icons=true&theme=tokyonight" alt="Gabriel's GitHub stats" />
+  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Gabriel SS&show_icons=true&theme=tokyonight" alt="Gabriel's GitHub stats" />
 
   <!-- Top languages -->
-  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=GabrielSSGitb&layout=compact&theme=tokyonight" alt="Top languages" />
+  <img height="150em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Gabriel SS&layout=compact&theme=tokyonight" alt="Top languages" />
 </div>
 
 
