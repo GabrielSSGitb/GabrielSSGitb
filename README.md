@@ -1,4 +1,4 @@
-👋 Hey there, welcome to my Git Profile!
+👋 Hey there,
 
 Here i´m currently: 
 
