@@ -13,10 +13,10 @@
 
 ```json
 {
-  "focus": "Build FullStack Applications",
+  "focus": "FullStack Development",
   "studying": "Computer Science @ Una Betim",
   "current_stack": ["PHP", "Laravel"],
-  "goal": "Build reliable, purposeful software"
+  "goal": "Build reliable, purposeful softwares"
 }
 ```
 
