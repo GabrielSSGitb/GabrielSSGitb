@@ -59,7 +59,7 @@
 
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" title="MySQL" />&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" height="40" title="PostgreSQL" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="40" title="PostgresSQL"/> &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="40" title="Oracle" />&nbsp;
 </div>
 
@@ -69,7 +69,7 @@
 
 - 🔧 I believe good code solves real problems — readable, maintainable, purposeful.
 - 📚 Computer Science student with a builder's mindset.
-- 🚀 Focused on growing as a backend developer through real projects.
+- 🚀 Focused on growing as a fullstack developer through real projects.
 - 🧩 Every challenge is a chance to learn something new.
 
 ---
