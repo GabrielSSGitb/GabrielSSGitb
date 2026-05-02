@@ -1,7 +1,7 @@
 <div align="center">
 
 # Gabriel Santos
-### FullStack Developer in Progress
+### </> FullStack Developer
 
 *Turning coffee and curiosity into code — one commit at a time.*
 
