@@ -15,7 +15,7 @@
 {
   "focus": "FullStack Development",
   "studying": "Computer Science @ Una Betim",
-  "current_stack": ["PHP", "Laravel"],
+  "current_stack": ["PHP", "Laravel", "Java", "Spring Boot"],
   "goal": "Build reliable, purposeful softwares"
 }
 ```
