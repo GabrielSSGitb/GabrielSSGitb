@@ -76,9 +76,9 @@
 
 ## `> Portfolio `
 
-## `> contact`
+</> https://gabrielsantosdev.com
 
-</> [https://gabrielsantosdev.com)
+## `> contact`
 
 📬 [gabrielsantosgithubac@gmail.com](mailto:gabrielsantosgithubac@gmail.com)
 
