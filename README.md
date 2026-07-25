@@ -20,6 +20,10 @@
 }
 ```
 
+## `> Portfolio `
+
+</> https://gabrielsantosdev.com
+
 ---
 
 ## `> tech_stack`
@@ -73,10 +77,6 @@
 - 🧩 Every challenge is a chance to learn something new.
 
 ---
-
-## `> Portfolio `
-
-</> https://gabrielsantosdev.com
 
 ## `> contact`
 
