@@ -1,23 +1,11 @@
 <div align="center">
 
-  <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:007ACC,100:6DB33F&height=180&section=header&text=Gabriel%20Santos&fontSize=50&fontColor=ffffff&animation=twinkling" width="100%" />
+# Gabriel Santos
+### </> FullStack Developer
 
-  <h3></> FullStack Developer</h3>
-
-  <p><i>Turning coffee and curiosity into code — one commit at a time.</i></p>
-
-  <!-- Badges de Links / Contato -->
-  <a href="https://gabrielsantosdev.com">
-    <img src="https://img.shields.io/badge/Portfolio-007ACC?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-  <a href="mailto:gabrielsantosgithubac@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
+*Turning coffee and curiosity into code — one commit at a time.*
 
 </div>
-
-<br />
 
 ---
 
@@ -30,3 +18,72 @@
   "current_stack": ["PHP", "Laravel", "Java", "Spring Boot"],
   "goal": "Build reliable, purposeful softwares"
 }
+```
+
+## `> Portfolio `
+
+</> https://gabrielsantosdev.com
+
+---
+
+## `> tech_stack`
+
+### ⟨/⟩ Programming Languages
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" height="40" title="Java" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" height="40" title="PHP" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" height="40" title="JavaScript" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" height="40" title="Python" />&nbsp;
+</div>
+
+---
+
+### ⚙️ Frameworks & Backend
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" height="40" title="Laravel" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" height="40" title="Spring" />&nbsp;
+</div>
+
+---
+
+### 🎨 Front-end & Styling
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original-wordmark.svg" height="40" title="HTML5" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original-wordmark.svg" height="40" title="CSS3" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" height="40" title="Bootstrap" />&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" height="40" title="Tailwind CSS" />&nbsp;
+</div>
+
+---
+
+### 🗄️ Databases
+
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" height="40" title="MySQL" />&nbsp;
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" height="40" title="PostgresSQL"/> &nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/oracle/oracle-original.svg" height="40" title="Oracle" />&nbsp;
+</div>
+
+---
+
+## `> what_drives_me`
+
+- 🔧 I believe good code solves real problems — readable, maintainable, purposeful.
+- 📚 Computer Science student with a builder's mindset.
+- 🚀 Focused on growing as a fullstack developer through real projects.
+- 🧩 Every challenge is a chance to learn something new.
+
+---
+
+## `> contact`
+
+📬 [gabrielsantosgithubac@gmail.com](mailto:gabrielsantosgithubac@gmail.com)
+
+---
+
+<div align="center">
+  <sub><code>// Building my path in tech, step.by.step()</code></sub>
+</div>
