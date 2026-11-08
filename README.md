@@ -129,12 +129,6 @@ focused on building software that is reliable, maintainable and solves real prob
 <img src="https://raw.githubusercontent.com/GabrielSSGitb/GabrielSSGitb/main/assets/metrics.general.svg" alt="GitHub Stats (public + private)" />
 </a>
 
-<br/>
-
-<a href="https://github.com/GabrielSSGitb?tab=repositories">
-<img src="https://raw.githubusercontent.com/GabrielSSGitb/GabrielSSGitb/main/assets/metrics.languages.svg" alt="Most used languages (public + private)" />
-</a>
-
 <br/><br/>
 
 <a href="https://github.com/GabrielSSGitb">
