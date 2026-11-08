@@ -19,14 +19,14 @@
 <h2 align="center">👨‍💻 About Me</h2>
 
 <p align="center">
-I'm a <b>Full-Stack Developer</b> and <b>Computer Science student at Una Betim</b>,<br/>
+I'm a <b>Full-Stack Developer</b> and <b>Computer Science student</b>,<br/>
 focused on building software that is reliable, maintainable and solves real problems.
 </p>
 
 ```json
 {
   "role": "Full-Stack Developer",
-  "studying": "Computer Science @ Una Betim",
+  "studying": "Computer Science",
   "current_stack": ["PHP", "Laravel", "Java", "Spring Boot"],
   "goal": "Build reliable, purposeful software"
 }
