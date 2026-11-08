@@ -121,10 +121,10 @@ focused on building software that is reliable, maintainable and solves real prob
 <div align="center">
 
 <a href="https://github.com/GabrielSSGitb">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=GabrielSSGitb&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&hide_border=false&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff41&border_radius=10" alt="GitHub Stats" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GabrielSSGitb&theme=github_dark" alt="GitHub Stats" />
 </a>
 <a href="https://github.com/GabrielSSGitb?tab=repositories">
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielSSGitb&layout=compact&langs_count=8&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41&border_radius=10" alt="Top Languages" />
+<img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GabrielSSGitb&theme=github_dark" alt="Top Languages by Commit" />
 </a>
 
 <br/>
@@ -133,9 +133,9 @@ focused on building software that is reliable, maintainable and solves real prob
 <img src="https://streak-stats.demolab.com/?user=GabrielSSGitb&background=0d1117&border=00ff41&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakNum=00ff41&sideNums=c9d1d9&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=8b949e&border_radius=10" alt="GitHub Streak" />
 </a>
 
-<br/>
+<br/><br/>
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=GabrielSSGitb&bg_color=0d1117&color=c9d1d9&line=00ff41&point=ffffff&area=true&area_color=00ff41&title_color=00ff41&hide_border=false&border_color=00ff41&radius=10" alt="Contribution Graph" />
+<img width="100%" src="https://ghchart.rshah.org/00ff41/GabrielSSGitb" alt="Contribution Chart" />
 
 </div>
 
