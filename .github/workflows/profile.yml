@@ -17,7 +17,7 @@ jobs:
     runs-on: ubuntu-latest
     timeout-minutes: 20
     steps:
-      # Card geral (inclui repositórios PRIVADOS — exige o secret METRICS_TOKEN com escopo "repo")
+      # Card geral + linguagens (inclui repositórios PRIVADOS — exige o secret METRICS_TOKEN com escopo "repo")
       - name: Stats (públicos + privados)
         uses: lowlighter/metrics@latest
         with:
@@ -26,27 +26,13 @@ jobs:
           user: GabrielSSGitb
           template: classic
           base: header, activity, community, repositories, metadata
-          repositories_affiliations: owner, collaborator
-          config_timezone: America/Sao_Paulo
-          committer_message: 'chore: update metrics [skip ci]'
-
-      # Linguagens mais usadas (também conta código dos repositórios privados)
-      - name: Linguagens (públicos + privados)
-        uses: lowlighter/metrics@latest
-        with:
-          filename: assets/metrics.languages.svg
-          token: ${{ secrets.METRICS_TOKEN }}
-          user: GabrielSSGitb
-          template: classic
-          base: ''
-          repositories_affiliations: owner, collaborator
           plugin_languages: yes
           plugin_languages_sections: most-used
           plugin_languages_details: bytes-size, percentage
           plugin_languages_limit: 8
-          plugin_languages_colors: github
+          repositories_affiliations: owner, collaborator
           config_timezone: America/Sao_Paulo
-          committer_message: 'chore: update languages [skip ci]'
+          committer_message: 'chore: update metrics [skip ci]'
 
   pacman:
     runs-on: ubuntu-latest
